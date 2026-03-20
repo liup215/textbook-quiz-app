@@ -48,15 +48,17 @@
 
 <script>
 import { ref, onMounted } from 'vue'
+import { useRouter } from 'vue-router'
 
 export default {
   name: 'HomeView',
   setup() {
+    const router = useRouter()
     const chapters = ref([])
 
     onMounted(async () => {
       try {
-        const response = await fetch('/textbook-quiz-app/data/chapters.json')
+        const response = await fetch(`${import.meta.env.BASE_URL}data/chapters.json`)
         const data = await response.json()
         chapters.value = data.chapters
       } catch (error) {
@@ -66,9 +68,7 @@ export default {
 
     const startQuiz = (chapter) => {
       if (chapter.enabled) {
-        // TODO: 跳转到刷题页面
-        console.log('开始刷题:', chapter)
-        alert(`即将进入 ${chapter.title} 刷题`)
+        router.push({ name: 'quiz', params: { chapterId: chapter.id } })
       }
     }
 
