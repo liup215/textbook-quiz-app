@@ -1,0 +1,43 @@
+{
+  "chapterId": 1,
+  "title": "第1章 绪论",
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "content": "以下哪个是正确的描述？",
+      "options": ["A. 选项A", "B. 选项B", "C. 选项C", "D. 选项D"],
+      "answer": "B",
+      "explanation": "正确答案是B，因为..."
+    },
+    {
+      "id": 2,
+      "type": "judge",
+      "content": "这个说法是正确的。",
+      "answer": true,
+      "explanation": "这个说法确实正确，理由是..."
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "content": "填空题的答案是_____和_____。",
+      "answer": ["答案1", "答案2"],
+      "explanation": "第一个空填'答案1'，第二个空填'答案2'"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "content": "选择题示例2",
+      "options": ["A. 错误选项", "B. 正确选项", "C. 干扰项", "D. 另一个干扰项"],
+      "answer": "B",
+      "explanation": "解析内容"
+    },
+    {
+      "id": 5,
+      "type": "judge",
+      "content": "判断题示例2",
+      "answer": false,
+      "explanation": "这是错误的，因为..."
+    }
+  ]
+}
