@@ -1,0 +1,382 @@
+{
+  "chapterId": 19,
+  "title": "Chapter 19: Genetic Technology",
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "content": "What is the main principle of genetic engineering?",
+      "options": ["A. Measuring enzyme activity", "B. Manipulating DNA to modify an organism's characteristics", "C. Counting chromosomes in cells", "D. Observing natural selection only"],
+      "answer": "B",
+      "explanation": "Genetic engineering is based on manipulating DNA in order to modify the characteristics of an organism."
+    },
+    {
+      "id": 2,
+      "type": "judge",
+      "content": "A gene or allele can be obtained using restriction enzymes.",
+      "answer": true,
+      "explanation": "Restriction enzymes can be used to cut out a section of DNA containing a gene or allele."
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "content": "Reverse transcriptase is used to make DNA from _____.",
+      "answer": "mRNA",
+      "explanation": "Reverse transcriptase forms complementary DNA using mRNA as the template."
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "content": "Which enzyme joins a gene into a plasmid vector?",
+      "options": ["A. DNA ligase", "B. Amylase", "C. RNA polymerase", "D. Catalase"],
+      "answer": "A",
+      "explanation": "DNA ligase seals the sugar-phosphate backbone and joins DNA fragments together."
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "content": "After recombinant plasmids are inserted into host cells, the cells are usually:",
+      "options": ["A. destroyed immediately", "B. cloned or multiplied", "C. frozen permanently", "D. exposed to zero nutrients"],
+      "answer": "B",
+      "explanation": "The transformed cells are cloned or multiplied so many copies of the gene and its product can be obtained."
+    },
+    {
+      "id": 6,
+      "type": "judge",
+      "content": "A fermenter may be used to multiply genetically modified bacteria.",
+      "answer": true,
+      "explanation": "Bacteria can be grown in fermenters to clone cells and produce useful proteins."
+    },
+    {
+      "id": 7,
+      "type": "fill",
+      "content": "The complete toolkit of a genetic engineer includes enzymes, vectors and genetic _____.",
+      "answer": "markers",
+      "explanation": "Marker genes help identify transformed cells."
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "content": "Restriction endonucleases cut DNA at:",
+      "options": ["A. random protein sites", "B. palindromic sequences", "C. ribosome binding sites only", "D. promoter regions only"],
+      "answer": "B",
+      "explanation": "Restriction endonucleases recognize palindromic DNA sequences and cut them."
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "content": "Restriction enzymes often produce:",
+      "options": ["A. amino acids", "B. sticky ends", "C. chromosomes", "D. ATP"],
+      "answer": "B",
+      "explanation": "Many restriction enzymes cut DNA to produce sticky ends with unpaired bases."
+    },
+    {
+      "id": 10,
+      "type": "judge",
+      "content": "Restriction enzymes are found naturally in bacteria and help defend against bacteriophages.",
+      "answer": true,
+      "explanation": "Bacteria use restriction enzymes as part of their defense against viral infection."
+    },
+    {
+      "id": 11,
+      "type": "fill",
+      "content": "DNA ligase forms _____ bonds in the sugar-phosphate backbone.",
+      "answer": "phosphodiester",
+      "explanation": "DNA ligase joins fragments by forming phosphodiester bonds."
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "content": "Which enzyme is produced by retroviruses?",
+      "options": ["A. Reverse transcriptase", "B. DNA ligase", "C. Restriction endonuclease", "D. Pepsin"],
+      "answer": "A",
+      "explanation": "Retroviruses produce reverse transcriptase to make DNA from RNA."
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "content": "Taq polymerase is obtained from:",
+      "options": ["A. Escherichia coli", "B. Thermus aquaticus", "C. yeast cells", "D. retroviruses"],
+      "answer": "B",
+      "explanation": "Taq polymerase comes from Thermus aquaticus, a bacterium adapted to high temperatures."
+    },
+    {
+      "id": 14,
+      "type": "judge",
+      "content": "Plasmids are small circular DNA molecules.",
+      "answer": true,
+      "explanation": "Plasmids are described as small, circular, supplementary DNA molecules."
+    },
+    {
+      "id": 15,
+      "type": "fill",
+      "content": "A plasmid used in cloning should contain a restriction enzyme _____ where the gene can be inserted.",
+      "answer": "site",
+      "explanation": "Plasmids need a restriction site or target sequence for insertion of the gene."
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "content": "Which property makes plasmids especially useful for gene cloning?",
+      "options": ["A. They are made of protein", "B. They replicate independently", "C. They cannot enter bacteria", "D. They have no marker genes"],
+      "answer": "B",
+      "explanation": "Plasmids can replicate independently of host cell replication, producing many copies."
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "content": "What is the role of marker genes in plasmids?",
+      "options": ["A. To digest DNA", "B. To identify transformed cells", "C. To block transcription", "D. To break hydrogen bonds"],
+      "answer": "B",
+      "explanation": "Marker genes allow scientists to identify cells that have taken up recombinant DNA."
+    },
+    {
+      "id": 18,
+      "type": "judge",
+      "content": "Only a small percentage of bacteria take up plasmids during transformation.",
+      "answer": true,
+      "explanation": "The notes state that only about 1% of bacteria take up the plasmid."
+    },
+    {
+      "id": 19,
+      "type": "fill",
+      "content": "During bacterial transformation, the mixture is cooled and then given a heat _____.",
+      "answer": "shock",
+      "explanation": "Heat shock helps increase the chance that plasmids pass through the bacterial membrane."
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "content": "Why are antibiotic resistance genes considered problematic as marker genes?",
+      "options": ["A. They glow under UV light", "B. They may spread antibiotic resistance to other bacteria", "C. They stop plasmids replicating", "D. They prevent all transformation"],
+      "answer": "B",
+      "explanation": "They may spread antibiotic resistance genes to bacteria, including pathogenic strains."
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "content": "GFP is short for:",
+      "options": ["A. gene fluorescence pathway", "B. green fluorescent protein", "C. gel fragment probe", "D. general fusion plasmid"],
+      "answer": "B",
+      "explanation": "GFP stands for green fluorescent protein."
+    },
+    {
+      "id": 22,
+      "type": "judge",
+      "content": "Fluorescent marker genes are easier to identify than antibiotic resistance markers.",
+      "answer": true,
+      "explanation": "Fluorescent markers can be identified directly under UV light and do not require antibiotic plates."
+    },
+    {
+      "id": 23,
+      "type": "fill",
+      "content": "Recombinant bacteria containing GFP can be detected when they glow green under _____ light.",
+      "answer": "ultraviolet",
+      "explanation": "GFP fluoresces when exposed to ultraviolet light."
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "content": "What is a promoter?",
+      "options": ["A. A DNA region where RNA polymerase binds", "B. A protein that cuts DNA", "C. A vesicle used for transport", "D. A chromosome stain"],
+      "answer": "A",
+      "explanation": "A promoter is a DNA region to which RNA polymerase binds to begin transcription."
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "content": "Why must a promoter be transferred with the desired gene?",
+      "options": ["A. To make DNA visible", "B. To allow transcription and gene expression", "C. To increase mutation rate", "D. To break DNA into fragments"],
+      "answer": "B",
+      "explanation": "Without a promoter, RNA polymerase cannot bind and the gene will not be transcribed properly."
+    },
+    {
+      "id": 26,
+      "type": "judge",
+      "content": "CRISPR/Cas9 originated from a defense mechanism used by some bacteria.",
+      "answer": true,
+      "explanation": "CRISPR/Cas9 was developed from a natural bacterial defense system against bacteriophages."
+    },
+    {
+      "id": 27,
+      "type": "fill",
+      "content": "Guide RNA in CRISPR is often abbreviated as _____.",
+      "answer": "gRNA",
+      "explanation": "Guide RNA, or gRNA, directs Cas enzymes to the target DNA sequence."
+    },
+    {
+      "id": 28,
+      "type": "choice",
+      "content": "What is the role of guide RNA in CRISPR/Cas9?",
+      "options": ["A. It seals DNA fragments", "B. It directs Cas9 to the target DNA", "C. It builds ribosomes", "D. It stains DNA"],
+      "answer": "B",
+      "explanation": "gRNA binds to a complementary DNA sequence and guides Cas9 to the correct target."
+    },
+    {
+      "id": 29,
+      "type": "choice",
+      "content": "Cas9 is best described as:",
+      "options": ["A. a DNA ligase", "B. an endonuclease", "C. a fluorescent marker", "D. a plasmid"],
+      "answer": "B",
+      "explanation": "Cas9 is an endonuclease that cuts DNA at a target sequence."
+    },
+    {
+      "id": 30,
+      "type": "judge",
+      "content": "Cas9 can cut both strands of DNA.",
+      "answer": true,
+      "explanation": "Cas9 has two active sites, allowing it to cut both DNA strands."
+    },
+    {
+      "id": 31,
+      "type": "fill",
+      "content": "One potential target for CRISPR editing in HIV-resistant embryos was the _____ gene.",
+      "answer": "CCR5",
+      "explanation": "CCR5 encodes a cell surface receptor used by HIV to enter cells."
+    },
+    {
+      "id": 32,
+      "type": "choice",
+      "content": "Which of the following is an advantage of CRISPR/Cas9?",
+      "options": ["A. It is slow and expensive", "B. It targets only one gene with low accuracy", "C. It is easy, fast, cheap and accurate", "D. It cannot be used in medicine"],
+      "answer": "C",
+      "explanation": "The notes describe CRISPR/Cas9 as easy, fast, cheap and highly accurate."
+    },
+    {
+      "id": 33,
+      "type": "choice",
+      "content": "PCR is used to:",
+      "options": ["A. separate proteins only", "B. amplify selected DNA regions", "C. translate mRNA", "D. sequence amino acids directly"],
+      "answer": "B",
+      "explanation": "Polymerase chain reaction amplifies selected regions of DNA."
+    },
+    {
+      "id": 34,
+      "type": "judge",
+      "content": "PCR requires primers because DNA polymerase cannot start synthesis without an existing strand to extend.",
+      "answer": true,
+      "explanation": "Primers provide the starting point needed by DNA polymerase."
+    },
+    {
+      "id": 35,
+      "type": "fill",
+      "content": "During PCR denaturation, the temperature is approximately _____ degrees Celsius.",
+      "answer": "95",
+      "explanation": "The denaturation stage is carried out at about 95 degrees Celsius."
+    },
+    {
+      "id": 36,
+      "type": "choice",
+      "content": "At about 60 degrees Celsius in PCR, what happens?",
+      "options": ["A. DNA fragments are stained", "B. Primers anneal to the template DNA", "C. Proteins are translated", "D. Restriction enzymes cut the DNA"],
+      "answer": "B",
+      "explanation": "At the annealing stage, primers bind to complementary sequences on the DNA template."
+    },
+    {
+      "id": 37,
+      "type": "choice",
+      "content": "DNA synthesis during PCR extension is usually carried out at:",
+      "options": ["A. 20°C", "B. 37°C", "C. 60°C", "D. 72°C"],
+      "answer": "D",
+      "explanation": "Extension is usually carried out at 72 degrees Celsius for Taq polymerase."
+    },
+    {
+      "id": 38,
+      "type": "judge",
+      "content": "Gel electrophoresis separates DNA fragments according to their movement in an electric field.",
+      "answer": true,
+      "explanation": "Gel electrophoresis separates charged molecules by differential movement through a gel in an electric field."
+    },
+    {
+      "id": 39,
+      "type": "fill",
+      "content": "DNA moves towards the _____ in gel electrophoresis because of its negatively charged phosphate groups.",
+      "answer": "anode",
+      "explanation": "DNA is negatively charged and therefore moves toward the positive electrode, the anode."
+    },
+    {
+      "id": 40,
+      "type": "choice",
+      "content": "Why do smaller DNA fragments move further through the gel?",
+      "options": ["A. They are positively charged", "B. They move more easily through the gel pores", "C. They have more genes", "D. They absorb more stain"],
+      "answer": "B",
+      "explanation": "Smaller fragments pass through the gel matrix more easily and therefore move faster and further."
+    },
+    {
+      "id": 41,
+      "type": "choice",
+      "content": "Agarose gel is most suitable for separating DNA fragments that are:",
+      "options": ["A. between 100 and 50 000 base pairs", "B. only one amino acid long", "C. larger than whole chromosomes only", "D. not charged"],
+      "answer": "A",
+      "explanation": "Agarose gel is used for fragments between about 100 and 50 000 base pairs."
+    },
+    {
+      "id": 42,
+      "type": "judge",
+      "content": "A DNA ladder helps determine fragment lengths in gel electrophoresis.",
+      "answer": true,
+      "explanation": "A reference sample with known fragment lengths is used to estimate unknown DNA fragment sizes."
+    },
+    {
+      "id": 43,
+      "type": "fill",
+      "content": "Short tandem repeats are abbreviated as _____.",
+      "answer": "STRs",
+      "explanation": "Microsatellites are also called short tandem repeats, or STRs."
+    },
+    {
+      "id": 44,
+      "type": "choice",
+      "content": "Microarrays are used to identify:",
+      "options": ["A. only proteins in blood", "B. genes present in a genome and genes expressed in cells", "C. only chromosome numbers", "D. the mass of DNA fragments"],
+      "answer": "B",
+      "explanation": "Microarrays are used to identify genes in the genome and determine which genes are expressed."
+    },
+    {
+      "id": 45,
+      "type": "choice",
+      "content": "In gene expression analysis using microarrays, extracted mRNA is first converted into:",
+      "options": ["A. ATP", "B. cDNA", "C. protein", "D. lipid"],
+      "answer": "B",
+      "explanation": "mRNA is reverse transcribed into cDNA before hybridization to the microarray."
+    },
+    {
+      "id": 46,
+      "type": "judge",
+      "content": "The intensity of fluorescence on a microarray can show the level of gene expression.",
+      "answer": true,
+      "explanation": "Brighter fluorescence indicates greater hybridization and therefore higher expression level."
+    },
+    {
+      "id": 47,
+      "type": "fill",
+      "content": "The use of computer software to collect, process and analyse biological data is called _____.",
+      "answer": "bioinformatics",
+      "explanation": "Bioinformatics handles large biological datasets such as DNA, gene, and protein sequences."
+    },
+    {
+      "id": 48,
+      "type": "choice",
+      "content": "Why are recombinant human proteins often produced in eukaryotic cells rather than prokaryotic cells?",
+      "options": ["A. Eukaryotic cells carry out post-translational modification", "B. Prokaryotic cells cannot replicate", "C. Eukaryotic cells do not need genes", "D. Prokaryotic cells have no DNA"],
+      "answer": "A",
+      "explanation": "Eukaryotic cells can modify proteins after translation, which is often necessary for functional human proteins."
+    },
+    {
+      "id": 49,
+      "type": "choice",
+      "content": "Which disease is associated with a defective CFTR protein?",
+      "options": ["A. Haemophilia", "B. Cystic fibrosis", "C. Malaria", "D. HIV infection"],
+      "answer": "B",
+      "explanation": "Mutation of the CFTR gene causes cystic fibrosis."
+    },
+    {
+      "id": 50,
+      "type": "choice",
+      "content": "Bt maize is resistant to insect attack because it contains a gene from:",
+      "options": ["A. Bacillus thuringiensis", "B. Thermus aquaticus", "C. Escherichia coli", "D. HIV"],
+      "answer": "A",
+      "explanation": "Bt maize contains the gene for Bt toxin from Bacillus thuringiensis, which protects it against insect pests."
+    }
+  ]
+}

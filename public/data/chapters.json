@@ -31,6 +31,14 @@
       "file": "ch04.json",
       "questionCount": 50,
       "enabled": true
+    },
+    {
+      "id": 19,
+      "title": "Chapter 19: Genetic Technology",
+      "description": "Genetic engineering, CRISPR, PCR, gene therapy, and GM organisms.",
+      "file": "ch19.json",
+      "questionCount": 50,
+      "enabled": true
     }
   ]
 }
