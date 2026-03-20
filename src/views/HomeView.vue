@@ -1,13 +1,13 @@
 <template>
   <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8 px-4">
     <div class="max-w-4xl mx-auto">
-      <!-- 标题 -->
+      <!-- Header -->
       <div class="text-center mb-12">
-        <h1 class="text-4xl font-bold text-gray-800 mb-4">教材刷题软件</h1>
-        <p class="text-gray-600 text-lg">选择章节开始学习和练习</p>
+        <h1 class="text-4xl font-bold text-gray-800 mb-4">Textbook Quiz App</h1>
+        <p class="text-gray-600 text-lg">Choose a chapter to start practicing</p>
       </div>
 
-      <!-- 章节卡片列表 -->
+      <!-- Chapter cards -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div
           v-for="chapter in chapters"
@@ -28,7 +28,7 @@
                 chapter.enabled ? 'bg-green-100 text-green-800' : 'bg-gray-200 text-gray-600'
               ]"
             >
-              {{ chapter.questionCount }}题
+              {{ chapter.questionCount }} Questions
             </span>
           </div>
           <p class="text-gray-600 text-sm mb-4">{{ chapter.description }}</p>
@@ -38,7 +38,7 @@
               chapter.enabled ? 'text-blue-600' : 'text-gray-400'
             ]"
           >
-            {{ chapter.enabled ? '点击开始' : '暂未开放' }}
+            {{ chapter.enabled ? 'Start Quiz' : 'Coming Soon' }}
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@ export default {
         const data = await response.json()
         chapters.value = data.chapters
       } catch (error) {
-        console.error('加载章节数据失败:', error)
+        console.error('Failed to load chapter data:', error)
       }
     })
 

@@ -2,35 +2,35 @@
   "chapters": [
     {
       "id": 1,
-      "title": "第1章 绪论",
-      "description": "本章介绍基础知识和基本概念",
+      "title": "Chapter 1: Introduction",
+      "description": "Basic concepts and introductory ideas.",
       "file": "ch01.json",
-      "questionCount": 5,
-      "enabled": true
+      "questionCount": 0,
+      "enabled": false
     },
     {
       "id": 2,
-      "title": "第2章 基本原理",
-      "description": "核心原理和理论基础",
+      "title": "Chapter 2: Basic Principles",
+      "description": "Core principles and theoretical foundations.",
       "file": "ch02.json",
       "questionCount": 0,
       "enabled": false
     },
     {
       "id": 3,
-      "title": "第3章 应用实践",
-      "description": "实际应用案例和练习",
+      "title": "Chapter 3: Applications",
+      "description": "Practical applications and exercises.",
       "file": "ch03.json",
       "questionCount": 0,
       "enabled": false
     },
     {
       "id": 4,
-      "title": "第4章 综合测试",
-      "description": "综合知识测试和复习",
+      "title": "Chapter 4: Cell Membranes and Transport",
+      "description": "Membrane structure, signalling, and transport processes.",
       "file": "ch04.json",
-      "questionCount": 0,
-      "enabled": false
+      "questionCount": 50,
+      "enabled": true
     }
   ]
 }

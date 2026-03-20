@@ -1,0 +1,382 @@
+{
+  "chapterId": 4,
+  "title": "Chapter 4: Cell Membranes and Transport",
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "content": "Which of the following is NOT a function of the cell membrane?",
+      "options": ["A. Providing a selectively permeable barrier", "B. Cell-to-cell recognition", "C. Dividing the cell into compartments", "D. Synthesizing proteins directly"],
+      "answer": "D",
+      "explanation": "The membrane forms boundaries, controls passage, supports recognition, and helps cells respond to signals, but it does not directly synthesize proteins."
+    },
+    {
+      "id": 2,
+      "type": "judge",
+      "content": "The cell membrane helps cells respond to signals.",
+      "answer": true,
+      "explanation": "One of the listed functions of the membrane is to help the cell respond to signals."
+    },
+    {
+      "id": 3,
+      "type": "fill",
+      "content": "Lipids in the membrane are arranged as a _____.",
+      "answer": "bilayer",
+      "explanation": "The membrane is built from a phospholipid bilayer."
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "content": "According to the fluid mosaic model, proteins are _____ in the phospholipid bilayer.",
+      "options": ["A. dissolved", "B. scattered", "C. absent", "D. stacked"],
+      "answer": "B",
+      "explanation": "The notes describe proteins as scattered in the phospholipid bilayer."
+    },
+    {
+      "id": 5,
+      "type": "judge",
+      "content": "Molecules in the membrane can move around, showing fluidity.",
+      "answer": true,
+      "explanation": "Fluidity means membrane molecules are able to move within the membrane."
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "content": "Which part of a phospholipid is hydrophilic?",
+      "options": ["A. Tail", "B. Head", "C. Fatty acid chain", "D. Bilayer core"],
+      "answer": "B",
+      "explanation": "The phospholipid head is hydrophilic, while the tails are hydrophobic."
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "content": "Which part of a phospholipid is hydrophobic?",
+      "options": ["A. Head", "B. Surface", "C. Tails", "D. Phosphate group"],
+      "answer": "C",
+      "explanation": "The tails of phospholipids are hydrophobic."
+    },
+    {
+      "id": 8,
+      "type": "fill",
+      "content": "Phospholipids can form a micelle and a _____ in water.",
+      "answer": "bilayer",
+      "explanation": "In water, phospholipids can form micelles and bilayers."
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "content": "Which factor increases membrane fluidity?",
+      "options": ["A. Longer fatty acid tails", "B. Lower temperature", "C. More unsaturated fatty acids", "D. More rigid packing"],
+      "answer": "C",
+      "explanation": "More unsaturated fatty acids increase membrane fluidity."
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "content": "Which factor decreases membrane fluidity?",
+      "options": ["A. Higher temperature", "B. More unsaturated fatty acids", "C. Shorter tails", "D. Longer tails"],
+      "answer": "D",
+      "explanation": "Longer fatty acid tails reduce fluidity by increasing interactions between tails."
+    },
+    {
+      "id": 11,
+      "type": "judge",
+      "content": "Higher temperature makes the membrane more fluid.",
+      "answer": true,
+      "explanation": "The notes state that higher temperature increases membrane fluidity."
+    },
+    {
+      "id": 12,
+      "type": "fill",
+      "content": "_____ stabilizes the membrane.",
+      "answer": "Cholesterol",
+      "explanation": "Cholesterol stabilizes the membrane."
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "content": "What is the role of phospholipids in the membrane?",
+      "options": ["A. Acting as genetic material", "B. Forming a barrier for polar molecules", "C. Producing ATP", "D. Breaking down glucose"],
+      "answer": "B",
+      "explanation": "Phospholipids form the bilayer and act as a barrier for many polar molecules."
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "content": "Which type of molecule can pass through the phospholipid bilayer most easily?",
+      "options": ["A. Small non-polar molecules", "B. Large charged ions", "C. Large polar molecules", "D. Proteins"],
+      "answer": "A",
+      "explanation": "Small non-polar molecules pass through the bilayer most easily."
+    },
+    {
+      "id": 15,
+      "type": "judge",
+      "content": "Large polar molecules can pass freely through the phospholipid bilayer.",
+      "answer": false,
+      "explanation": "Large polar molecules and charged ions cannot pass freely through the hydrophobic core."
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "content": "Integral proteins are also known as which of the following when they cross the membrane?",
+      "options": ["A. Peripheral proteins", "B. Transmembrane proteins", "C. Recognition proteins", "D. Surface enzymes"],
+      "answer": "B",
+      "explanation": "Integral proteins that span the membrane are transmembrane proteins."
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "content": "Which protein forms a hole in the membrane and does not change conformation?",
+      "options": ["A. Carrier protein", "B. Channel protein", "C. Peripheral protein", "D. Glycoprotein"],
+      "answer": "B",
+      "explanation": "Channel proteins create a passageway and do not change conformation during transport."
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "content": "A carrier protein binds a molecule and changes its _____ to move it across the membrane.",
+      "answer": "conformation",
+      "explanation": "Carrier proteins transport substances by changing conformation."
+    },
+    {
+      "id": 19,
+      "type": "judge",
+      "content": "Peripheral proteins usually act as enzymes.",
+      "answer": true,
+      "explanation": "The notes state that peripheral proteins usually act as enzymes."
+    },
+    {
+      "id": 20,
+      "type": "choice",
+      "content": "Glycoproteins and glycolipids are mainly involved in:",
+      "options": ["A. Cell recognition", "B. DNA replication", "C. ATP production", "D. Photosynthesis"],
+      "answer": "A",
+      "explanation": "Glycoproteins and glycolipids play a role in cell recognition."
+    },
+    {
+      "id": 21,
+      "type": "choice",
+      "content": "What is the first step in cell signalling?",
+      "options": ["A. Cell response", "B. Protein synthesis", "C. Signal molecules bind to receptors", "D. Vesicle formation"],
+      "answer": "C",
+      "explanation": "Cell signalling starts when a signal molecule binds to a receptor."
+    },
+    {
+      "id": 22,
+      "type": "judge",
+      "content": "Relay molecules transduce the signal into the cell.",
+      "answer": true,
+      "explanation": "Relay molecules carry the signal from the receptor into the cell."
+    },
+    {
+      "id": 23,
+      "type": "fill",
+      "content": "The final stage of cell signalling is the cell _____ to the signal.",
+      "answer": "response",
+      "explanation": "After reception and transduction, the cell responds to the signal."
+    },
+    {
+      "id": 24,
+      "type": "choice",
+      "content": "Which of the following is a water-soluble primary messenger?",
+      "options": ["A. Adrenaline", "B. Cholesterol", "C. DAG", "D. cGMP"],
+      "answer": "A",
+      "explanation": "Hormones such as adrenaline are listed as water-soluble primary messengers."
+    },
+    {
+      "id": 25,
+      "type": "choice",
+      "content": "Which of the following is a secondary messenger?",
+      "options": ["A. Insulin", "B. Acetylcholine", "C. cAMP", "D. ADH"],
+      "answer": "C",
+      "explanation": "cAMP is listed as a secondary messenger."
+    },
+    {
+      "id": 26,
+      "type": "judge",
+      "content": "Lipid-soluble signal molecules usually bind to intracellular receptors.",
+      "answer": true,
+      "explanation": "Lipid-soluble signals can cross the membrane and bind intracellular receptors."
+    },
+    {
+      "id": 27,
+      "type": "choice",
+      "content": "Which is NOT a cell-surface receptor type listed in the notes?",
+      "options": ["A. Ion-channel-coupled receptor", "B. G-protein-coupled receptor", "C. Enzyme-coupled receptor", "D. Ribosome-coupled receptor"],
+      "answer": "D",
+      "explanation": "Ribosome-coupled receptor is not listed as a receptor type."
+    },
+    {
+      "id": 28,
+      "type": "fill",
+      "content": "A series of reactions in signalling can _____ the cell signal.",
+      "answer": "amplify",
+      "explanation": "A signalling cascade amplifies the original signal."
+    },
+    {
+      "id": 29,
+      "type": "choice",
+      "content": "Which of the following can be an effect of cell signalling?",
+      "options": ["A. Opening ion channels", "B. Destroying the cell wall", "C. Stopping all metabolism", "D. Removing DNA"],
+      "answer": "A",
+      "explanation": "Cell signalling can open ion channels, activate enzymes, and regulate protein synthesis."
+    },
+    {
+      "id": 30,
+      "type": "judge",
+      "content": "Cell signalling can regulate protein synthesis.",
+      "answer": true,
+      "explanation": "Regulation of protein synthesis is one of the effects listed in the notes."
+    },
+    {
+      "id": 31,
+      "type": "choice",
+      "content": "Passive transport:",
+      "options": ["A. requires ATP", "B. does not require ATP from cell metabolism", "C. moves against the concentration gradient", "D. always requires carrier proteins"],
+      "answer": "B",
+      "explanation": "Passive transport does not require ATP from cell metabolism."
+    },
+    {
+      "id": 32,
+      "type": "fill",
+      "content": "Diffusion is the net movement of particles _____ the concentration gradient.",
+      "answer": "down",
+      "explanation": "Diffusion occurs from higher to lower concentration."
+    },
+    {
+      "id": 33,
+      "type": "judge",
+      "content": "Diffusion requires transport proteins in all cases.",
+      "answer": false,
+      "explanation": "Simple diffusion does not require proteins."
+    },
+    {
+      "id": 34,
+      "type": "choice",
+      "content": "Which is an example of a substance that may diffuse directly through the membrane?",
+      "options": ["A. Small gas molecule", "B. Large protein", "C. Charged ion", "D. Starch"],
+      "answer": "A",
+      "explanation": "Small gases and other small non-polar molecules can diffuse directly through the membrane."
+    },
+    {
+      "id": 35,
+      "type": "choice",
+      "content": "Osmosis is the net diffusion of:",
+      "options": ["A. glucose", "B. proteins", "C. water", "D. ATP"],
+      "answer": "C",
+      "explanation": "Osmosis is the diffusion of water through a partially permeable membrane."
+    },
+    {
+      "id": 36,
+      "type": "fill",
+      "content": "Osmosis occurs through a partially _____ membrane.",
+      "answer": "permeable",
+      "explanation": "The definition of osmosis includes movement through a partially permeable membrane."
+    },
+    {
+      "id": 37,
+      "type": "judge",
+      "content": "Animal cells may swell and burst in dilute solutions.",
+      "answer": true,
+      "explanation": "In dilute solution, water enters animal cells by osmosis, causing swelling and possible bursting."
+    },
+    {
+      "id": 38,
+      "type": "choice",
+      "content": "What happens to an animal cell in a concentrated solution?",
+      "options": ["A. It becomes turgid", "B. It shrinks", "C. It bursts", "D. It divides"],
+      "answer": "B",
+      "explanation": "Animal cells lose water in concentrated solutions and shrink."
+    },
+    {
+      "id": 39,
+      "type": "choice",
+      "content": "A plant cell in a dilute solution becomes:",
+      "options": ["A. plasmolysed", "B. lysed", "C. turgid", "D. dehydrated"],
+      "answer": "C",
+      "explanation": "In dilute solution, water enters the plant cell and it becomes turgid."
+    },
+    {
+      "id": 40,
+      "type": "judge",
+      "content": "Plasmolysis occurs when a plant cell is placed in a concentrated solution.",
+      "answer": true,
+      "explanation": "Water leaves the plant cell in a concentrated solution, causing plasmolysis."
+    },
+    {
+      "id": 41,
+      "type": "fill",
+      "content": "Water potential is written as psi_w = psi_s + psi_____.",
+      "answer": "p",
+      "explanation": "The equation in the notes is psi_w = psi_s + psi_p."
+    },
+    {
+      "id": 42,
+      "type": "choice",
+      "content": "What does psi_s represent?",
+      "options": ["A. Pressure potential", "B. Solute potential", "C. Gravity potential", "D. Signal potential"],
+      "answer": "B",
+      "explanation": "psi_s represents solute potential, also called osmotic potential."
+    },
+    {
+      "id": 43,
+      "type": "choice",
+      "content": "Facilitated diffusion is best described as:",
+      "options": ["A. protein-mediated diffusion down a concentration gradient", "B. ATP-driven transport against a gradient", "C. bulk movement by vesicles", "D. movement without a membrane"],
+      "answer": "A",
+      "explanation": "Facilitated diffusion uses proteins and moves substances down the concentration gradient."
+    },
+    {
+      "id": 44,
+      "type": "judge",
+      "content": "Facilitated diffusion does not need energy from cell metabolism.",
+      "answer": true,
+      "explanation": "Facilitated diffusion is a passive process and does not require ATP."
+    },
+    {
+      "id": 45,
+      "type": "fill",
+      "content": "Carrier-mediated facilitated diffusion shows a _____ effect.",
+      "answer": "saturated",
+      "explanation": "Because the number of carriers is limited, carrier-mediated transport can become saturated."
+    },
+    {
+      "id": 46,
+      "type": "choice",
+      "content": "Active transport moves substances:",
+      "options": ["A. down the gradient", "B. against the concentration gradient", "C. only through channels", "D. without proteins"],
+      "answer": "B",
+      "explanation": "Active transport moves substances against the concentration gradient."
+    },
+    {
+      "id": 47,
+      "type": "judge",
+      "content": "Active transport needs protein and energy from cell metabolism.",
+      "answer": true,
+      "explanation": "The notes specify that active transport requires both energy and protein."
+    },
+    {
+      "id": 48,
+      "type": "choice",
+      "content": "Which example is given for secondary active transport?",
+      "options": ["A. Oxygen entering red blood cells", "B. Glucose absorption in the small intestine with Na+", "C. Water moving into root hair cells", "D. Carbon dioxide leaving a leaf"],
+      "answer": "B",
+      "explanation": "The notes list glucose absorption in the small intestine coupled with Na+ as an example."
+    },
+    {
+      "id": 49,
+      "type": "fill",
+      "content": "In phloem loading, sucrose transport is coupled with _____.",
+      "answer": "H+",
+      "explanation": "The notes state that sucrose loading in the phloem is coupled with H+."
+    },
+    {
+      "id": 50,
+      "type": "choice",
+      "content": "Which process takes materials into the cell by using vesicles?",
+      "options": ["A. Exocytosis", "B. Endocytosis", "C. Diffusion", "D. Osmosis"],
+      "answer": "B",
+      "explanation": "Endocytosis is the uptake of materials into the cell using vesicles."
+    }
+  ]
+}
