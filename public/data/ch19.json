@@ -56,18 +56,16 @@
     },
     {
       "id": 8,
-      "type": "choice",
-      "content": "Restriction endonucleases cut DNA at:",
-      "options": ["A. random protein sites", "B. palindromic sequences", "C. ribosome binding sites only", "D. promoter regions only"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Restriction endonucleases usually recognize and cut _____ DNA sequences.",
+      "answer": "palindromic",
       "explanation": "Restriction endonucleases recognize palindromic DNA sequences and cut them."
     },
     {
       "id": 9,
-      "type": "choice",
-      "content": "Restriction enzymes often produce:",
-      "options": ["A. amino acids", "B. sticky ends", "C. chromosomes", "D. ATP"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Many restriction enzymes produce _____ ends with unpaired bases.",
+      "answer": "sticky",
       "explanation": "Many restriction enzymes cut DNA to produce sticky ends with unpaired bases."
     },
     {
@@ -94,10 +92,9 @@
     },
     {
       "id": 13,
-      "type": "choice",
-      "content": "Taq polymerase is obtained from:",
-      "options": ["A. Escherichia coli", "B. Thermus aquaticus", "C. yeast cells", "D. retroviruses"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Taq polymerase is obtained from the bacterium _____.",
+      "answer": "Thermus aquaticus",
       "explanation": "Taq polymerase comes from Thermus aquaticus, a bacterium adapted to high temperatures."
     },
     {
@@ -154,10 +151,9 @@
     },
     {
       "id": 21,
-      "type": "choice",
-      "content": "GFP is short for:",
-      "options": ["A. gene fluorescence pathway", "B. green fluorescent protein", "C. gel fragment probe", "D. general fusion plasmid"],
-      "answer": "B",
+      "type": "fill",
+      "content": "GFP stands for green fluorescent _____.",
+      "answer": "protein",
       "explanation": "GFP stands for green fluorescent protein."
     },
     {
@@ -176,10 +172,9 @@
     },
     {
       "id": 24,
-      "type": "choice",
-      "content": "What is a promoter?",
-      "options": ["A. A DNA region where RNA polymerase binds", "B. A protein that cuts DNA", "C. A vesicle used for transport", "D. A chromosome stain"],
-      "answer": "A",
+      "type": "fill",
+      "content": "A promoter is the region of DNA where _____ polymerase binds to start transcription.",
+      "answer": "RNA",
       "explanation": "A promoter is a DNA region to which RNA polymerase binds to begin transcription."
     },
     {
@@ -214,10 +209,9 @@
     },
     {
       "id": 29,
-      "type": "choice",
-      "content": "Cas9 is best described as:",
-      "options": ["A. a DNA ligase", "B. an endonuclease", "C. a fluorescent marker", "D. a plasmid"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Cas9 is a CRISPR-associated _____ that cuts DNA.",
+      "answer": "endonuclease",
       "explanation": "Cas9 is an endonuclease that cuts DNA at a target sequence."
     },
     {
@@ -244,10 +238,9 @@
     },
     {
       "id": 33,
-      "type": "choice",
-      "content": "PCR is used to:",
-      "options": ["A. separate proteins only", "B. amplify selected DNA regions", "C. translate mRNA", "D. sequence amino acids directly"],
-      "answer": "B",
+      "type": "fill",
+      "content": "PCR is used to _____ selected regions of DNA.",
+      "answer": "amplify",
       "explanation": "Polymerase chain reaction amplifies selected regions of DNA."
     },
     {
@@ -266,10 +259,9 @@
     },
     {
       "id": 36,
-      "type": "choice",
-      "content": "At about 60 degrees Celsius in PCR, what happens?",
-      "options": ["A. DNA fragments are stained", "B. Primers anneal to the template DNA", "C. Proteins are translated", "D. Restriction enzymes cut the DNA"],
-      "answer": "B",
+      "type": "fill",
+      "content": "At about 60 degrees Celsius in PCR, primers _____ to the template DNA.",
+      "answer": "anneal",
       "explanation": "At the annealing stage, primers bind to complementary sequences on the DNA template."
     },
     {
@@ -334,10 +326,9 @@
     },
     {
       "id": 45,
-      "type": "choice",
-      "content": "In gene expression analysis using microarrays, extracted mRNA is first converted into:",
-      "options": ["A. ATP", "B. cDNA", "C. protein", "D. lipid"],
-      "answer": "B",
+      "type": "fill",
+      "content": "In microarray analysis, extracted mRNA is first converted into _____.",
+      "answer": "cDNA",
       "explanation": "mRNA is reverse transcribed into cDNA before hybridization to the microarray."
     },
     {
@@ -364,18 +355,16 @@
     },
     {
       "id": 49,
-      "type": "choice",
-      "content": "Which disease is associated with a defective CFTR protein?",
-      "options": ["A. Haemophilia", "B. Cystic fibrosis", "C. Malaria", "D. HIV infection"],
-      "answer": "B",
+      "type": "fill",
+      "content": "A defective CFTR protein causes _____.",
+      "answer": "cystic fibrosis",
       "explanation": "Mutation of the CFTR gene causes cystic fibrosis."
     },
     {
       "id": 50,
-      "type": "choice",
-      "content": "Bt maize is resistant to insect attack because it contains a gene from:",
-      "options": ["A. Bacillus thuringiensis", "B. Thermus aquaticus", "C. Escherichia coli", "D. HIV"],
-      "answer": "A",
+      "type": "fill",
+      "content": "Bt maize contains an insect-resistance gene from the bacterium _____.",
+      "answer": "Bacillus thuringiensis",
       "explanation": "Bt maize contains the gene for Bt toxin from Bacillus thuringiensis, which protects it against insect pests."
     }
   ]
