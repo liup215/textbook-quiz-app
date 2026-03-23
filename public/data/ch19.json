@@ -4,17 +4,16 @@
   "questions": [
     {
       "id": 1,
-      "type": "choice",
-      "content": "What is the main principle of genetic engineering?",
-      "options": ["A. Measuring enzyme activity", "B. Manipulating DNA to modify an organism's characteristics", "C. Counting chromosomes in cells", "D. Observing natural selection only"],
-      "answer": "B",
+      "type": "fill",
+      "content": "The main principle of genetic engineering is manipulating _____ to modify an organism's characteristics.",
+      "answer": "DNA",
       "explanation": "Genetic engineering is based on manipulating DNA in order to modify the characteristics of an organism."
     },
     {
       "id": 2,
-      "type": "judge",
-      "content": "A gene or allele can be obtained using restriction enzymes.",
-      "answer": true,
+      "type": "fill",
+      "content": "A gene or allele can be obtained using _____ enzymes.",
+      "answer": "restriction",
       "explanation": "Restriction enzymes can be used to cut out a section of DNA containing a gene or allele."
     },
     {
@@ -26,25 +25,23 @@
     },
     {
       "id": 4,
-      "type": "choice",
-      "content": "Which enzyme joins a gene into a plasmid vector?",
-      "options": ["A. DNA ligase", "B. Amylase", "C. RNA polymerase", "D. Catalase"],
-      "answer": "A",
+      "type": "fill",
+      "content": "The enzyme that joins a gene into a plasmid vector is _____ ligase.",
+      "answer": "DNA",
       "explanation": "DNA ligase seals the sugar-phosphate backbone and joins DNA fragments together."
     },
     {
       "id": 5,
-      "type": "choice",
-      "content": "After recombinant plasmids are inserted into host cells, the cells are usually:",
-      "options": ["A. destroyed immediately", "B. cloned or multiplied", "C. frozen permanently", "D. exposed to zero nutrients"],
-      "answer": "B",
+      "type": "fill",
+      "content": "After recombinant plasmids are inserted into host cells, the cells are usually cloned or _____.",
+      "answer": "multiplied",
       "explanation": "The transformed cells are cloned or multiplied so many copies of the gene and its product can be obtained."
     },
     {
       "id": 6,
-      "type": "judge",
-      "content": "A fermenter may be used to multiply genetically modified bacteria.",
-      "answer": true,
+      "type": "fill",
+      "content": "A _____ may be used to multiply genetically modified bacteria.",
+      "answer": "fermenter",
       "explanation": "Bacteria can be grown in fermenters to clone cells and produce useful proteins."
     },
     {
@@ -70,9 +67,9 @@
     },
     {
       "id": 10,
-      "type": "judge",
-      "content": "Restriction enzymes are found naturally in bacteria and help defend against bacteriophages.",
-      "answer": true,
+      "type": "fill",
+      "content": "Restriction enzymes are found naturally in bacteria and help defend against _____.",
+      "answer": "bacteriophages",
       "explanation": "Bacteria use restriction enzymes as part of their defense against viral infection."
     },
     {
@@ -84,10 +81,9 @@
     },
     {
       "id": 12,
-      "type": "choice",
-      "content": "Which enzyme is produced by retroviruses?",
-      "options": ["A. Reverse transcriptase", "B. DNA ligase", "C. Restriction endonuclease", "D. Pepsin"],
-      "answer": "A",
+      "type": "fill",
+      "content": "The enzyme produced by retroviruses is reverse _____.",
+      "answer": "transcriptase",
       "explanation": "Retroviruses produce reverse transcriptase to make DNA from RNA."
     },
     {
@@ -99,9 +95,9 @@
     },
     {
       "id": 14,
-      "type": "judge",
-      "content": "Plasmids are small circular DNA molecules.",
-      "answer": true,
+      "type": "fill",
+      "content": "Plasmids are small circular _____ molecules.",
+      "answer": "DNA",
       "explanation": "Plasmids are described as small, circular, supplementary DNA molecules."
     },
     {
@@ -113,25 +109,23 @@
     },
     {
       "id": 16,
-      "type": "choice",
-      "content": "Which property makes plasmids especially useful for gene cloning?",
-      "options": ["A. They are made of protein", "B. They replicate independently", "C. They cannot enter bacteria", "D. They have no marker genes"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Plasmids can replicate _____ of host cell replication, making them useful for gene cloning.",
+      "answer": "independently",
       "explanation": "Plasmids can replicate independently of host cell replication, producing many copies."
     },
     {
       "id": 17,
-      "type": "choice",
-      "content": "What is the role of marker genes in plasmids?",
-      "options": ["A. To digest DNA", "B. To identify transformed cells", "C. To block transcription", "D. To break hydrogen bonds"],
-      "answer": "B",
+      "type": "fill",
+      "content": "The role of marker genes in plasmids is to identify _____ cells.",
+      "answer": "transformed",
       "explanation": "Marker genes allow scientists to identify cells that have taken up recombinant DNA."
     },
     {
       "id": 18,
-      "type": "judge",
-      "content": "Only a small percentage of bacteria take up plasmids during transformation.",
-      "answer": true,
+      "type": "fill",
+      "content": "Only about _____% of bacteria take up plasmids during transformation.",
+      "answer": "1",
       "explanation": "The notes state that only about 1% of bacteria take up the plasmid."
     },
     {
@@ -143,10 +137,9 @@
     },
     {
       "id": 20,
-      "type": "choice",
-      "content": "Why are antibiotic resistance genes considered problematic as marker genes?",
-      "options": ["A. They glow under UV light", "B. They may spread antibiotic resistance to other bacteria", "C. They stop plasmids replicating", "D. They prevent all transformation"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Antibiotic resistance genes are problematic as marker genes because they may spread antibiotic resistance to other _____.",
+      "answer": "bacteria",
       "explanation": "They may spread antibiotic resistance genes to bacteria, including pathogenic strains."
     },
     {
@@ -158,9 +151,9 @@
     },
     {
       "id": 22,
-      "type": "judge",
-      "content": "Fluorescent marker genes are easier to identify than antibiotic resistance markers.",
-      "answer": true,
+      "type": "fill",
+      "content": "_____ marker genes are easier to identify than antibiotic resistance markers because they can be seen under UV light.",
+      "answer": "Fluorescent",
       "explanation": "Fluorescent markers can be identified directly under UV light and do not require antibiotic plates."
     },
     {
@@ -179,17 +172,16 @@
     },
     {
       "id": 25,
-      "type": "choice",
-      "content": "Why must a promoter be transferred with the desired gene?",
-      "options": ["A. To make DNA visible", "B. To allow transcription and gene expression", "C. To increase mutation rate", "D. To break DNA into fragments"],
-      "answer": "B",
+      "type": "fill",
+      "content": "A promoter must be transferred with the desired gene to allow transcription and gene _____.",
+      "answer": "expression",
       "explanation": "Without a promoter, RNA polymerase cannot bind and the gene will not be transcribed properly."
     },
     {
       "id": 26,
-      "type": "judge",
-      "content": "CRISPR/Cas9 originated from a defense mechanism used by some bacteria.",
-      "answer": true,
+      "type": "fill",
+      "content": "CRISPR/Cas9 originated from a _____ mechanism used by some bacteria.",
+      "answer": "defense",
       "explanation": "CRISPR/Cas9 was developed from a natural bacterial defense system against bacteriophages."
     },
     {
@@ -201,10 +193,9 @@
     },
     {
       "id": 28,
-      "type": "choice",
-      "content": "What is the role of guide RNA in CRISPR/Cas9?",
-      "options": ["A. It seals DNA fragments", "B. It directs Cas9 to the target DNA", "C. It builds ribosomes", "D. It stains DNA"],
-      "answer": "B",
+      "type": "fill",
+      "content": "The role of guide RNA in CRISPR/Cas9 is to direct Cas9 to the target _____.",
+      "answer": "DNA",
       "explanation": "gRNA binds to a complementary DNA sequence and guides Cas9 to the correct target."
     },
     {
@@ -216,9 +207,9 @@
     },
     {
       "id": 30,
-      "type": "judge",
-      "content": "Cas9 can cut both strands of DNA.",
-      "answer": true,
+      "type": "fill",
+      "content": "Cas9 can cut both _____ of DNA.",
+      "answer": "strands",
       "explanation": "Cas9 has two active sites, allowing it to cut both DNA strands."
     },
     {
@@ -230,10 +221,9 @@
     },
     {
       "id": 32,
-      "type": "choice",
-      "content": "Which of the following is an advantage of CRISPR/Cas9?",
-      "options": ["A. It is slow and expensive", "B. It targets only one gene with low accuracy", "C. It is easy, fast, cheap and accurate", "D. It cannot be used in medicine"],
-      "answer": "C",
+      "type": "fill",
+      "content": "CRISPR/Cas9 is described as easy, fast, cheap and highly _____ as a gene editing tool.",
+      "answer": "accurate",
       "explanation": "The notes describe CRISPR/Cas9 as easy, fast, cheap and highly accurate."
     },
     {
@@ -245,9 +235,9 @@
     },
     {
       "id": 34,
-      "type": "judge",
-      "content": "PCR requires primers because DNA polymerase cannot start synthesis without an existing strand to extend.",
-      "answer": true,
+      "type": "fill",
+      "content": "PCR requires primers because DNA polymerase cannot start synthesis without an existing strand to _____.",
+      "answer": "extend",
       "explanation": "Primers provide the starting point needed by DNA polymerase."
     },
     {
@@ -266,17 +256,16 @@
     },
     {
       "id": 37,
-      "type": "choice",
-      "content": "DNA synthesis during PCR extension is usually carried out at:",
-      "options": ["A. 20°C", "B. 37°C", "C. 60°C", "D. 72°C"],
-      "answer": "D",
+      "type": "fill",
+      "content": "DNA synthesis during PCR extension is usually carried out at _____ degrees Celsius.",
+      "answer": "72",
       "explanation": "Extension is usually carried out at 72 degrees Celsius for Taq polymerase."
     },
     {
       "id": 38,
-      "type": "judge",
-      "content": "Gel electrophoresis separates DNA fragments according to their movement in an electric field.",
-      "answer": true,
+      "type": "fill",
+      "content": "Gel electrophoresis separates DNA fragments according to their movement in an electric _____.",
+      "answer": "field",
       "explanation": "Gel electrophoresis separates charged molecules by differential movement through a gel in an electric field."
     },
     {
@@ -288,25 +277,23 @@
     },
     {
       "id": 40,
-      "type": "choice",
-      "content": "Why do smaller DNA fragments move further through the gel?",
-      "options": ["A. They are positively charged", "B. They move more easily through the gel pores", "C. They have more genes", "D. They absorb more stain"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Smaller DNA fragments move further through the gel because they move more easily through the gel _____.",
+      "answer": "pores",
       "explanation": "Smaller fragments pass through the gel matrix more easily and therefore move faster and further."
     },
     {
       "id": 41,
-      "type": "choice",
-      "content": "Agarose gel is most suitable for separating DNA fragments that are:",
-      "options": ["A. between 100 and 50 000 base pairs", "B. only one amino acid long", "C. larger than whole chromosomes only", "D. not charged"],
-      "answer": "A",
+      "type": "fill",
+      "content": "Agarose gel is most suitable for separating DNA fragments that are between 100 and 50,000 _____ pairs.",
+      "answer": "base",
       "explanation": "Agarose gel is used for fragments between about 100 and 50 000 base pairs."
     },
     {
       "id": 42,
-      "type": "judge",
-      "content": "A DNA ladder helps determine fragment lengths in gel electrophoresis.",
-      "answer": true,
+      "type": "fill",
+      "content": "A DNA _____ helps determine fragment lengths in gel electrophoresis.",
+      "answer": "ladder",
       "explanation": "A reference sample with known fragment lengths is used to estimate unknown DNA fragment sizes."
     },
     {
@@ -318,10 +305,9 @@
     },
     {
       "id": 44,
-      "type": "choice",
-      "content": "Microarrays are used to identify:",
-      "options": ["A. only proteins in blood", "B. genes present in a genome and genes expressed in cells", "C. only chromosome numbers", "D. the mass of DNA fragments"],
-      "answer": "B",
+      "type": "fill",
+      "content": "Microarrays are used to identify genes present in a genome and genes _____ in cells.",
+      "answer": "expressed",
       "explanation": "Microarrays are used to identify genes in the genome and determine which genes are expressed."
     },
     {
@@ -333,9 +319,9 @@
     },
     {
       "id": 46,
-      "type": "judge",
-      "content": "The intensity of fluorescence on a microarray can show the level of gene expression.",
-      "answer": true,
+      "type": "fill",
+      "content": "The intensity of fluorescence on a microarray can show the level of gene _____.",
+      "answer": "expression",
       "explanation": "Brighter fluorescence indicates greater hybridization and therefore higher expression level."
     },
     {
@@ -347,10 +333,9 @@
     },
     {
       "id": 48,
-      "type": "choice",
-      "content": "Why are recombinant human proteins often produced in eukaryotic cells rather than prokaryotic cells?",
-      "options": ["A. Eukaryotic cells carry out post-translational modification", "B. Prokaryotic cells cannot replicate", "C. Eukaryotic cells do not need genes", "D. Prokaryotic cells have no DNA"],
-      "answer": "A",
+      "type": "fill",
+      "content": "Recombinant human proteins are often produced in eukaryotic cells because they carry out post-translational _____.",
+      "answer": "modification",
       "explanation": "Eukaryotic cells can modify proteins after translation, which is often necessary for functional human proteins."
     },
     {
